@@ -25,8 +25,14 @@ Despriction of Both the datasets `dataset-daily.csv` and `dataset-monthly.csv` h
 ### Other Content:
 
 - #### Create-Dataset notebooks
-    1. create-dataset-daily.ipynb
+    1. create-dataset-monthly.ipynb
     2. create-dataset-daily.ipynb
 
 - #### Testing notebooks
     1.  netCDF-test-monthly.ipynb
+
+- #### Notebooks on CNN_LSTM
+    1.  LSTM_weather_daily.ipynb
+    2.  LSTM_requisite_model.txt(Textfile for further utility)
+    3.  LSTM_model.py(Python file to build model)
+
