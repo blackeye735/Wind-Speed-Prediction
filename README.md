@@ -36,3 +36,5 @@ Despriction of Both the datasets `dataset-daily.csv` and `dataset-monthly.csv` h
     2.  LSTM_requisite_model.txt(Textfile for further utility)
     3.  LSTM_model.py(Python file to build model)
 
+- #### LICENSE:-
+     Apache License 2.0 
